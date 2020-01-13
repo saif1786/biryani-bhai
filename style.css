@@ -1,0 +1,52 @@
+
+h1{
+	font-family: 'Oleo Script',cursive;
+	font-size: 70px;
+	color:#fff;
+}
+
+.btn{
+	border-radius: 60px;
+	}
+
+.btn:hover{
+	background-color: green;
+	border-width: 2px 4px 2px 4px;
+	
+	}
+.btn-primary:hover{
+	border-color: green;
+}
+hr{
+	border:1px solid #f2e4d0;
+
+}
+html{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+body,html{
+	font-family: 'Oleo Script', cursive;
+    /*font-family: 'Fredericka the Great', cursive;**/
+     background: url(4.jpg) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+      background-size: cover;
+}
+.icon{
+	background-color: #B37B0D;
+}
+.container{
+	margin-top: 20px;
+	margin: 20px 10px 20px 10px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.coloumn{
+	margin:10px 10px 10px 10px;
+}		
